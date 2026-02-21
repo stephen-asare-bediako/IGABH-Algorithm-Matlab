@@ -1,7 +1,7 @@
 IGABH: Improved Genetic Algorithm–Black Hole
 --------------------------------------------------------------------------------------------------
 Hybrid
---------------------------------------------------------------------------------------------------
+
 This repository contains the MATLAB implementation of the Improved Genetic Algorithm–Black
 Hole (IGABH) algorithm, together with competing metaheuristics and ablation study scripts used for
 performance benchmarking.
