@@ -21,12 +21,15 @@ results presented in the manuscript. The main folder IGABH contains a sub-folder
 
 (b)Dependencies & Set Up
 MATLAB Scripts of Optimization Algorithms	Required Files
-Genetic_Algorithm.m	UniformCrossover.m, Mutate.m, SortPopulation.m, RouletteWheelSelection.m
+Genetic_Algorithm.m	          UniformCrossover.m, Mutate.m, SortPopulation.m, 
+RouletteWheelSelection.m
 PSO_Algorithm.m	-
-Mayfly_Algorithm.m	Crossover3.m, Mutate3.m
-Blackhole_Algorithm.m	EnforceBounds.m
-GABH_Algorithm.m	UniformCrossover.m, Mutation.m, EnforceBounds.m
-IGABH_Algorithm.m	UniformCrossover.m, Mutation.m, EnforceBounds.m, Crossover.m, Adaptivealpha
+Mayfly_Algorithm.m	           Crossover3.m, Mutate3.m
+Blackhole_Algorithm.m	        EnforceBounds.m
+GABH_Algorithm.m	             UniformCrossover.m, Mutation.m, EnforceBounds.m
+IGABH_Algorithm.m	            UniformCrossover.m, Mutation.m, EnforceBounds.m, Crossover.m, 
+Adaptivealpha
+
 
 (c)Detailed Folder Structure
 IGABH/
